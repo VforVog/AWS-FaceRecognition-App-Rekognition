@@ -6,3 +6,5 @@ We execute it with AWS CLI Commands to import and configure the aws resources
 
 Then with Python we upload Images to train the Machine Learning of Rekognition. 
 Finally we use the python script to run the app!
+
+---- You can see the Architecture for more detailed Steps ----
