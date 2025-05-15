@@ -13,3 +13,5 @@ We upload Images to train the Machine Learning of Rekognition.
 Finally we use the python script to run the app!
 
 
+*P.s.: Location -> US East, N. Virginia
+
