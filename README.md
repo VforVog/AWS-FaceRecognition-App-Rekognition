@@ -3,7 +3,7 @@
   <b> 🚀 AWS Face Recognition App </b>
 </p>
 <br>
- 
+  
 An end-to-end Face Recognition application built using AWS services like Rekognition, S3, Lambda, IAM, and DynamoDB.
 This project demonstrates how to leverage serverless and AI/ML services on AWS to build a scalable image recognition pipeline.
 <br><hr>
